@@ -1,0 +1,5 @@
+CU101 Rohit rohits@gmail.com Mumbai
+CU102 Ram ramb@gmail.com Dharmashala
+CU103 Mohit mohits@gmail.com Guwahati
+CU104 Iyer siyer@gmail.com Chennai
+CU105 Hardik hardikp@gmail.com Ahmedabad
